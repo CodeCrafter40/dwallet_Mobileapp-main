@@ -54,8 +54,6 @@
 - **Bank Partnerships**: Formed strategic partnerships with major UK banks to ensure seamless transactions.
 - **Regulatory Compliance**: Maintained continuous consultations with legal teams and regulatory bodies to ensure compliance and build trust.
 
-## Code Repository/Project Link
-(Links to the code repository and project demo can be provided upon request for further exploration and collaboration.)
 
 ## Conclusion
 The **Digital Vault** is a testament to innovative solutions in the financial sector, bridging gaps between consumers and merchants, fostering trust, and promoting safety. This digital wallet ecosystem stands out as a secure, user-friendly, and UK-compliant solution, contributing significantly to the digital transformation of financial transactions.
