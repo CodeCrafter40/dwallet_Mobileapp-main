@@ -59,7 +59,6 @@
 The **Digital Vault** is a testament to innovative solutions in the financial sector, bridging gaps between consumers and merchants, fostering trust, and promoting safety. This digital wallet ecosystem stands out as a secure, user-friendly, and UK-compliant solution, contributing significantly to the digital transformation of financial transactions.
 
 ## Snapshots
-![9  invitations](https://github.com/user-attachments/assets/44e0664b-2dac-4971-a43a-a6f30dee95a9)
 ![3  home](https://github.com/user-attachments/assets/08a43082-db27-409c-aa57-27dcb9c4873c)
 ![1  login](https://github.com/user-attachments/assets/3ed34758-ba45-41a7-a9a5-105da918651d)
 ![all_transfers_success_page](https://github.com/user-attachments/assets/37339003-33ba-4997-93a6-965bb8da8190)
